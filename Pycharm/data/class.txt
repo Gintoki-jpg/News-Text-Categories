@@ -1,0 +1,7 @@
+flood
+hail
+waterlogging
+gale
+drought
+thunderbolt
+typhoon
